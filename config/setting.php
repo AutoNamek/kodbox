@@ -249,7 +249,7 @@ $config['settingSystemDefault'] = array(
 		array('name'=>'desktop','type'=>'system','url'=>'desktop','target'=>'_self','use'=>'1'),
 		array('name'=>'explorer','type'=>'system','url'=>'explorer','target'=>'_self','use'=>'1'),
 		array('name'=>'editor','type'=>'','url'=>'editor','target'=>'_self','use'=>'0'),
-		array('name'=>'官网','url'=>'https://kodcloud.com',"icon"=>"ri-home-line-3",'target'=>'inline','use'=>'1')
+		array('name'=>'Official website','url'=>'https://kodcloud.com',"icon"=>"ri-home-line-3",'target'=>'inline','use'=>'1')
 	),
 );
 

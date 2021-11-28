@@ -1178,7 +1178,7 @@ return array(
     "common.copyright.about"         => "Giới thiệu",
     "common.copyright.desc"          => "kodbox là một hệ thống quản lý tài liệu web rất được hoan nghênh, trước đây gọi là KodExplorer, bạn có thể sử dụng nó để quản lý hoặc chia sẻ tài liệu nội bộ, cũng như để quản lý các trang web trên máy chủ. Thay vì Ftp, bạn thậm chí có thể phát triển trực tiếp dưới dạng webIDE. Đồng thời, bạn có thể tích hợp sự phát triển thứ cấp của chương trình này vào hệ thống hiện tại của bạn.",
     "common.copyright.contact"       => "Để được ủy quyền hoặc tùy chỉnh, vui lòng liên hệ với QQ: <a href=\"http://wpa.qq.com/msgrd?v=3&uin=3532208565&site=qq&menu=yes\" target=\"_blank\">3532208565</a> <a href=\"http://bbs.kodcloud.com/\" target=\"_blank\">Phản hồi về sự cố</a>",
-    "common.copyright.homepage"      => "Copyright © <a href=\"https://kodcloud.com/\" target=\"_blank\">kodcloud.com</a>.",
+    "common.copyright.homepage"      => "Copyright © <a>Namekian</a>.",
     "common.copyright.name"          => "kodbox",
     "common.copyright.nameTitle"     => "kodbox",
     "common.copyright.nameDesc"      => "KodCloud • Explorer",
